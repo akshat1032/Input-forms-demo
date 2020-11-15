@@ -9,3 +9,5 @@
 ##### UC3 - User needs to enter mobile number in predefined format
 
 ##### UC4 - User needs to enter valid password following password rule of minimum 8 characters
+
+##### UC5 - User needs to enter a complete valid password
